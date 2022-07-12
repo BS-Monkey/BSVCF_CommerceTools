@@ -20,4 +20,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-2022.07.11
+2022.07.12
